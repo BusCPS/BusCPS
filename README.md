@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Soon making scripts for Growpai
+
+Growpai --> https://github.com/HertXD
+
 <!--
 **BusCPS/BusCPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
